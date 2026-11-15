@@ -56,4 +56,4 @@ Angular Projects is in pre-launch. [Get on the list](https://angularprojects.com
 
 The same five builds are taught in React at [React Projects](https://github.com/reactprojectscom). [SaaSy Land](https://github.com/saasyland) gives you the foundation; these builds teach why it works and how to extend it.
 
-<sub>Built by [Piotr Borowiecki](https://pjborowiecki.com). Questions: [support@angularprojects.com](mailto:support@angularprojects.com).</sub>
+<sub>Follow along on [Instagram](https://www.instagram.com/angularprojects/). Built by [Piotr Borowiecki](https://pjborowiecki.com). Questions: [support@angularprojects.com](mailto:support@angularprojects.com).</sub>
